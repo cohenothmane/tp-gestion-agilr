@@ -1,8 +1,8 @@
-h1{
-    color:blue;
+.c1{
+    color:crimson
 }
 
-h2{
+.c2{
     color:blueviolet;
 }
 
@@ -11,6 +11,6 @@ p{
 }
 
 span{
-    font-size: 200px;
+    font-size: 50px;
     color:crimson;
 }
